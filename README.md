@@ -34,7 +34,7 @@ Backend Setup
 
 cd backend
 npm install
-npm run dev
+npm run start
 
 
 Frontend Setup
